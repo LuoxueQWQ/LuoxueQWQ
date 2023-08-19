@@ -5,5 +5,5 @@
 <h1 align="center">Hi, I'm <a href="https://www.xbzj.love">Luo</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-[![Typing SVG](https://stats.justsong.cn/api/leetcode/?username=LuoxueQWQ&theme=dark)](https://github.com/songquanpeng/stats-cards)
+[![Typing SVG](https://stats.justsong.cn/api/leetcode/?username=LuoxueQWQ&theme=dark&lang=zh-CN)](https://github.com/songquanpeng/stats-cards)
 
